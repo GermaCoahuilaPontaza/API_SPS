@@ -1,0 +1,15 @@
+📦 nombre-del-proyecto
+ ┣ 📂 src
+ ┃ ┣ 📂 main
+ ┃ ┃ ┣ 📂 mule
+ ┃ ┃ ┃ ┣ 📄 global.xml          → Configuración global ( Secure Properties, etc.)
+ ┃ ┃ ┃ ┣ 📄 api.xml             → Implementación de la API (listener flow de consulta)
+ ┃ ┃ ┣ 📂 resources
+ ┃ ┃ ┃ ┣ 📂 config
+ ┃ ┃ ┃ ┃ ┣ 📄 local.properties   → Configuración local
+ ┃ ┃ ┃ ┃ ┣ 📄 dev.properties     → Configuración de desarrollo
+ ┃ ┃ ┃ ┃ ┣ 📄 local.secure.properties → Propiedades cifradas
+ ┃ ┃ ┃ ┃ ┣ 📄 dev.secure.properties → Propiedades cifradas
+ ┣ 📂 docs
+ ┃ ┣ 📄 README.md              → Documentación del proyecto
+ ┃ ┣ 📄 API-Specification.yaml → Especificación de la API en formato RAML/OpenAPI
