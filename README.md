@@ -11,7 +11,7 @@ Descripción Obtiene la lista de clientes desde la base de datos
 🛠 Instalación y Configuración
 🔹 1. Clonar el repositorio
 Ejecuta el siguiente comando en tu terminal:
-git clone https://German Coahuila Pontaza/API_SPS.git
+git clone https://Germa Coahuila Pontaza/API_SPS.git
 
 🔹 2. Importar en Anypoint Studio
 Abre Anypoint Studio.
